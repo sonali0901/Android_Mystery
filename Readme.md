@@ -1,0 +1,2 @@
+#Android Mystery
+The aim is to develop all possible combinations of apps with source and sink varying between activity, service and broadcast receiver and reading call logs to save them in sd card. The intent taken into action are explicit, implicit and pending intents.
